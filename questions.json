@@ -1,0 +1,290 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Select the correct letter/letters that makes the following word a plural - dog",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 0,
+        "explanation": "When we want to make the word 'dog' plural, we simply add '-s' to the end, resulting in 'dogs.' So, the correct answer is option a) -s."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Select the correct letter/letters that makes the following word a plural - watch",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 1,
+        "explanation": "To make the word 'watch' plural, we add '-es' to the end, resulting in 'watches.' So, the correct answer is option b) -es."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Select the correct letter/letters that makes the following word a plural - baby",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 2,
+        "explanation": "The word 'baby' becomes plural by changing the 'y' to 'i' and adding '-es,' resulting in 'babies.' So, the correct answer is option c) -ies."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Select the correct letter/letters that makes the following word a plural - bus",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 1,
+        "explanation": "The word 'bus' simply adds '-es' to become plural, resulting in 'buses.' So, the correct answer is option b) -es."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Select the correct letter/letters that makes the following word a plural - party",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 1,
+        "explanation": "To make the word 'party' plural, we add '-es' to the end, resulting in 'parties.' So, the correct answer is option b) -es."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Select the correct letter/letters that make the following word a plural - bush",
+        "options": [
+            "-s",
+            "-es",
+            "-ies",
+            "None of the above"
+        ],
+        "correct": 1,
+        "explanation": "The word 'bush' is a singular noun. To make it plural, we add '-es' to the end, resulting in 'bushes.' So, the correct choice is b) -es."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "<b>Complete the sentence with the correct plural.</b><br> There are exactly twelve ____  (inch) in one foot.",
+        "options": [
+            "inches",
+            "inch",
+            "inched",
+            "inching"
+        ],
+        "correct": 0,
+        "explanation": "When we talk about more than one inch, we use the plural form 'inches.' So, the correct answer is 'inches.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "<b>Fill in the blank with the right plural form.</b><br> She collected five ____ (rose) from the garden. ",
+        "options": [
+            "roses",
+            "rose",
+            "rosen",
+            "rosing"
+        ],
+        "correct": 0,
+        "explanation": "When we talk about more than one rose, we add '-s' to the end to make it plural. So, the correct answer is 'roses.'"
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "<b>Choose the correct plural to complete the sentence.</b><br> There were four ____ (cup) on the table.",
+        "options": [
+            "cup",
+            "cups",
+            "cupping",
+            "cupped"
+        ],
+        "correct": 1,
+        "explanation": "When we talk about more than one cup, we add '-s' to the end to make it plural. So, the correct answer is 'cups.'"
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "<b>Which plural form best completes the sentence?</b><br> There are five ____ (leaf) on the tree.",
+        "options": [
+            "leaf",
+            "leafs",
+            "leaves",
+            "leafing"
+        ],
+        "correct": 2,
+        "explanation": "When we talk about more than one leaf, we add '-ves' to the end to make it plural. So, the correct answer is 'leaves.'"
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "<b>Which plural form best completes the sentence?</b><br> There are two ____ (bee) in the garden.",
+        "options": [
+            "bees",
+            "bee",
+            "beed",
+            "beeing"
+        ],
+        "correct": 0,
+        "explanation": "When we talk about more than one bee, we add '-s' to the end to make it plural. So, the correct answer is 'bees.'"
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "<b>Select the appropriate plural form to complete the sentence.</b><br> He saw five ____ (bird) flying in the sky.",
+        "options": [
+            "bird",
+            "birds",
+            "birding",
+            "birded"
+        ],
+        "correct": 1,
+        "explanation": "When we talk about more than one bird, we add '-s' to the end to make it plural. So, the correct answer is 'birds.'"
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>cat</b> chased the mouse.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 0,
+        "explanation": "The noun 'cat' is singular because it refers to only one cat."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>children</b> played in the park.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 1,
+        "explanation": "The noun 'children' is plural because it refers to more than one child."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>students</b> completed their assignments.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 1,
+        "explanation": "The noun 'students' is plural because it refers to more than one student. In this sentence, multiple students are completing their assignments."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>horses</b> galloped across the field.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 1,
+        "explanation": "The noun 'horses' is plural because it refers to more than one horse. In this sentence, multiple horses are galloping across the field."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>cars</b> zoomed down the highway.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 1,
+        "explanation": "The noun 'cars' is plural because it refers to more than one car. In this sentence, multiple cars are zooming down the highway."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "<b>Is the noun in bold singular or plural?</b><br> The <b>trees</b> swayed in the breeze.",
+        "options": [
+            "singular",
+            "plural"
+        ],
+        "correct": 1,
+        "explanation": "The noun 'trees' is plural because it refers to more than one tree. In this sentence, multiple trees are swaying in the breeze."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "All the children had shiny new ____ . (tooth)",
+        "options": [
+            "tooths",
+            "teeth",
+            "toothes",
+            "tootheses"
+        ],
+        "correct": 1,
+        "explanation": "The correct plural form of 'tooth' is 'teeth.' This is an irregular plural noun where the spelling changes from 'tooth' to 'teeth.'"
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "The geese flew over the tall ____ . (tree)",
+        "options": [
+            "trees",
+            "tree",
+            "treies",
+            "treen"
+        ],
+        "correct": 0,
+        "explanation": "The correct plural form of 'tree' is 'trees.' This is an irregular plural noun where 'tree' becomes 'trees' to indicate more than one."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "The mice found a way into the cheese ____ . (trap)",
+        "options": [
+            "trapes",
+            "traps",
+            "trapies",
+            "trapeses"
+        ],
+        "correct": 1,
+        "explanation": "The correct plural form of 'trap' is 'traps.' This is an irregular plural noun where 'trap' becomes 'traps' to indicate more than one."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "<b>Complete the sentence with the correct plural.</b><br> The women wore beautiful ____ (dress) to the party. ",
+        "options": [
+            "dress",
+            "dresses",
+            "dressies",
+            "dressen"
+        ],
+        "correct": 1,
+        "explanation": "The correct plural form of 'dress' is 'dresses.' This is an irregular plural noun where 'dress' becomes 'dresses' to indicate more than one."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "<b>Complete the sentence with the correct plural.</b><br> The _____ (goose) flew over the pond.",
+        "options": [
+            "geese",
+            "goose",
+            "giise",
+            "gooses"
+        ],
+        "correct": 0,
+        "explanation": "The correct plural form of 'goose' is 'geese.'"
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "<b>Complete the sentence with the correct plural.</b><br> The mice hid behind the ____ .(couch)",
+        "options": [
+            "couches",
+            "couch",
+            "couchees",
+            "couchies"
+        ],
+        "correct": 0,
+        "explanation": "The correct plural form of 'couch' is 'couches.' We add '-es' to make it plural because it ends with 'ch.'"
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "<b>Complete the sentence with the correct plural.</b><br> All the dogs had wagging ____ . (tail)",
+        "options": [
+            "tails",
+            "tales",
+            "tail",
+            "tailies"
+        ],
+        "correct": 0,
+        "explanation": "The correct plural form of 'tail' is 'tails.' Each dog had more than one tail, so we use the plural form 'tails.'"
+    }
+]
